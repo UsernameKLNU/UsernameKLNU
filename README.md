@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UsernameKLNU
 - 👀 I’m interested in computer
 - 💞️ I’m looking to collaborate on Minecraft server
-- 📫 you can reach me, my E-Mail is efjiewldvrud@outlook.com
+- 📫 you can reach me, my E-Mail is 484029294@qq.com (got991)
 ## 今年汇总 ✨
 UsernameKLNU
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=UsernameKLNU&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
