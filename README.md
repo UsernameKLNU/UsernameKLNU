@@ -4,14 +4,32 @@
 - 📫 you can reach me, my E-Mail is 484029294@qq.com (got991)
 ## 今年汇总 ✨
 UsernameKLNU
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=UsernameKLNU&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsernameKLNU&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+<table>
+  <tr>
+    <td>访问量</td>
+    <td><img src="https://profile-counter.glitch.me/UsernameKLNU/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+
+
+[![UsernameKLNU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsernameKLNU&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 got991
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=got991&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=got991&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+<table>
+  <tr>
+    <td>访问量</td>
+    <td><img src="https://profile-counter.glitch.me/got991/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+
+
+[![UsernameKLNU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=got991&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
